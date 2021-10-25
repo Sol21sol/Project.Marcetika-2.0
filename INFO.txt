@@ -1,0 +1,5 @@
+open terminal: ctrl + ~ 
+
+npm install
+
+gulp watch ---- THIS START
